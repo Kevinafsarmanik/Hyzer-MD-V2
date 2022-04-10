@@ -31,7 +31,7 @@ https://github.com/Luigmntng`
            hydratedButtons: [{
              urlButton: {
                displayText: '📍Instagram',
-               url: https://www.instagram.com/p/CWVlIbNvqG5/?igshid=YmMyMTA2M2Y=
+               url: https://www.instagram.com/Kevinafsar_
              }
 
            },
