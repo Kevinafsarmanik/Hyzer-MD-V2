@@ -31,7 +31,7 @@ https://github.com/Luigmntng`
            hydratedButtons: [{
              urlButton: {
                displayText: '📍Instagram',
-               url: instagram
+               url: https://www.instagram.com/p/CWVlIbNvqG5/?igshid=YmMyMTA2M2Y=
              }
 
            },
