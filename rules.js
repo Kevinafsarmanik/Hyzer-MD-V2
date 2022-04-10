@@ -18,7 +18,7 @@ let handler = async (m, { conn }) => await conn.send2But(m.chat, `
 
 ╭─────[ *HUKUM* ]─────✧
 ┴
-│ 1 & 11 = Block + banned permanent
+│ 1 & 11 = Block + banned permanent +bot akan kirim virtex brutal
 │ 2,4,6 & 8 = Banned sementara
 │ 3 = War
 │ 5 = Block sementara
